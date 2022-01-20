@@ -1,0 +1,79 @@
+---
+# Preliminiary list
+## Have a list differentiating APIs paths from normal HTTP paths? 
+
+[General Sites]
+adrianteri.com
+blog.adrianteri.com
+sc.adrianteri.com
+resume.adrianteri.com
+keinnumbers.adrianteri.com
+gimmeapin.adrianteri.com
+wildsidefutures.com
+techweez.com
+forums.techweez.com
+archlinux.org
+archlinux.org/login
+aur.archlinux.org
+aur.archlinux.org/login
+manjaro.com
+forums.manjaro.com
+
+[Developer and Operations]
+aws.amazon.com
+console.amazon.com
+docs.amazon.com
+console.cloud.google.com
+azure.microsoft.com
+portal.azure.com
+hashicorp.com
+cloud.hashicorp.com
+portal.cloud.hashicorp.com
+github.com
+gitlab.com
+1password.com
+lastpass.com
+bitwarden.com
+shodan.io
+accounts.shodan.io
+
+[Social Media]
+twitter.com
+api.twitter.com
+reddit.com
+discordapp.com
+
+[Education]
+cmu.edu
+login.cmu.edu
+africa.engineering.cmu.edu
+uonbi.ac.ke
+sci.uonbi.ac.ke
+graduates.uonbi.ac.ke
+smis.uonbi.ac.ke
+
+[Finance]
+absabank.co.ke
+ecobank.com
+sc.com/ke # Standard chartered KE
+sc.com
+nse.co.ke # Nairobi Securities Exchange
+
+[Travel]
+kenya-airways.com/
+
+[Entertainment]
+youtube.com
+nebula.app
+curiositystream.com
+netflix.com/ke
+netflix.com/nz
+showmax.com
+
+[Gaming]
+store.steampowered.com
+steampowered.com
+gog.com
+epicgames.com
+eveonline.com
+
